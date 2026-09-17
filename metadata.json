@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Typing Battle",
+  "description": "A premium, highly immersive typing battle game where typing speed and accuracy directly power real-time combat attacks, combos, and cinematic finishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
